@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mab8861
 - 👀 I’m interested in software engineering and cybersecurity
-- 🌱 I’m currently learning dT structures and CISSP 
+- 🌱 I’m currently learning data structures and CISSP 
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me miguelcrash2013@gmail.com
 
